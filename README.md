@@ -12,6 +12,6 @@ Download album and introduction in the page of works, format names of works ford
 ## Instructions
 1 Install python 3.8 or above (only tested 3.8 or above)<br> 
 2 Update pip, install requests, pillow, bs4, lxml library<br> 
-3 Download getDLsiteIntro.py file and put it in the folder directory containing "RJxxxxxx" folders <br> 
+3 Download `getDLsiteIntro.py` file and put it in the folder directory containing "RJxxxxxx" folders <br> 
 4 Open the .py file and modify the proxy port "proxies" according to the requirements, and modify whether to create an MP3 folder `create_MP3_folder` (only create a folder, the program will not automatically extract MP3 files)<br> 
 5 Double-click to run, or use `python getDLsiteIntro.py` to run
